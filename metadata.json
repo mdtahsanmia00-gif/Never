@@ -1,0 +1,6 @@
+{
+  "name": "NEVER FORGET AI",
+  "description": "AI-Powered Smart Reminder and Task Planner with permanent notifications, location alerts, and repeat schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
